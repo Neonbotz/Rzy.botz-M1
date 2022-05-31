@@ -20,6 +20,7 @@ global.APIs = { // API Prefix
   lolhum: 'https://api.lolhuman.xyz',
   fxc7: 'https://fxc7-api.herokuapp.com',
   bx: 'https://bx-hunter.herokuapp.com',
+  zenz : 'https://zenzapis.xyz', 
 
 }
 global.APIKeys = { // APIKey nya disini
@@ -37,6 +38,8 @@ global.APIKeys = { // APIKey nya disini
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
   'http://zekais-api.herokuapp.com': 'grqgD6pU',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
+  'https://zenzapis.xyz': 'WibuXploit', 
+
 }
 
 // Sticker WM
@@ -50,7 +53,7 @@ global.watermark = '©Sachi-Botzzえ' //change the watermark
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
 
-global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 99999 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
