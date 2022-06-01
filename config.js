@@ -49,9 +49,9 @@ global.author = 'Agungx え'
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©Sachi-Botzzえ' //change the watermark 
-global.image = 'https://telegra.ph/file/0d84efa81dc85fcd0b860.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/0d84efa81dc85fcd0b860.jpg'
+global.watermark = '© Sachi-Botzzえ' //change the watermark 
+global.image = 'https://telegra.ph/file/a00830b1020f7edd10200.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/a00830b1020f7edd10200.jpg'
 
 global.multiplier = 999 // Semakin tinggi, semakin sulit naik level
 
