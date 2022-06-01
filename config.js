@@ -53,7 +53,7 @@ global.watermark = '©Sachi-Botzzえ' //change the watermark
 global.image = 'https://telegra.ph/file/0d84efa81dc85fcd0b860.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/0d84efa81dc85fcd0b860.jpg'
 
-global.multiplier = 99999 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 999 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
