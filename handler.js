@@ -411,9 +411,9 @@ module.exports = {
                 this.reply(jid, text, 0, { thumbnail: kai, contextInfo: {
                 mentionedJid: [user],
                 externalAdReply: {
-                  mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
+                  mediaUrl: 'xnxx.com',
                   title: action === 'add' ? wel : lea,
-                  body: 'Rzy-botz',
+                  body: 'Sachi-Botzzえ',
                   thumbnail: poi
                 }
               }}) 
@@ -485,7 +485,7 @@ global.dfail = (type, m, conn) => {
     private: 'This command only can used in Private Chat.\nPerintah ini hanya dapat digunakan di Chat Pribadi.',
     admin: 'This command only can used by *Group Admin.*\nPerintah ini hanya dapat digunakan oleh *Admin Group.*',
     botAdmin: 'Make the bot number as a group admin to use this command.\nJadikan bot sebagai admin untuk menggunakan perintah ini.',
-    unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar rzy.19*',
+    unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar nama.19*',
     nsfw: 'NSFW doesnt active.\nNSFW tidak aktif.'
   }[type]
   if (msg) return m.reply(msg)
